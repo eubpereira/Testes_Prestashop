@@ -1,4 +1,4 @@
-# Casos de testes/Testes de API e reporte de bugs.
+# Testes de API e Reporte de Bugs - PrestaShop.
 
 Identificação e criação de casos de testes para reporte de bug posterior utilizando o Jira.
 
