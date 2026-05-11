@@ -8,4 +8,4 @@ Criar casos de testes voltados para a área de cadastro do cliente e realizar te
 
 ## 🛠️ Construído com
 
-Google Sheets / Jira / Postman
+Google Sheets - Jira - Postman
